@@ -20,7 +20,7 @@ A simple and intuitive To-Do List application built using [your preferred tech s
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/todo-list-app.git
+    git clone https://github.com/aditya12696/App_to_do_list.git
     ```
 2. Navigate to the project directory:
     ```bash
